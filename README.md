@@ -1,4 +1,6 @@
 # Generating-GIFs-with-AnimateDiff-Lightning
+*RUN THIS ON COLAB*
+link to colab: https://colab.research.google.com/drive/1B6iVHPjdPzxW_LvyYrS5AT2cHs0VbA9F?usp=sharing
 This project uses the AnimateDiff Lightning model and a Gradio interface to generate GIFs from text prompts. Users can input descriptions, adjust guidance scales, and create dynamic, text-to-image animations.
 
 
